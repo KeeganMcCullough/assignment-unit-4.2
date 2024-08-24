@@ -1,0 +1,21 @@
+    header{
+        background-color: #facaca;
+        color:#181b10;
+    }
+    
+    .info{
+        margin:auto;
+        max-width:40%;
+        h2{ 
+            background-color: #facade;
+            color: #181b10;
+        }
+        h3{
+            background-color: #facaf6;
+            color:#181b10;
+        }
+        img{
+            max-width: 40%;
+            max-height: 40%;
+        }
+    }
